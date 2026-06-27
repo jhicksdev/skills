@@ -12,7 +12,7 @@ description: >-
 
 # Skill Creator
 
-> **Derived from Anthropic's skill-creator.** This is a modified fork that preserves the original workflow and adds automatic cleanup of workspace, evaluation, and temporary files after each evaluation cycle. The original skill is part of the [Anthropic Claude Code skills](https://github.com/anthropics/claude-code/tree/main/.claude/skills) collection.
+> **Derived from Anthropic's skill-creator.** This is a modified fork that preserves the original workflow and adds automatic cleanup of workspace, evaluation, and temporary files after each evaluation cycle. The original skill is part of the [Anthropic skills](https://github.com/anthropics/skills/tree/main/skills/skill-creator) collection.
 
 A skill for creating new skills and iteratively improving them.
 
